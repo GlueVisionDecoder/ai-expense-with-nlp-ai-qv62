@@ -1,4 +1,4 @@
-# 
+# 最佳 AI Expense Tracker with NLP 插件。集成 云端AI 和 目标检测，性能最大化。
 
 
 
